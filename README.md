@@ -1,15 +1,13 @@
 # Bootstrap-HW
 
-# Using Bootstrap Create Online Store Withe Following Requirements:
+# Using Bootstrap Create a site that contains the tourist attractions in the Kingdom of Saudi Arabia Withe Following Requirements:
 
 ## HTML
-- Create a homepage for your store.
+- Create a homepage for your site.
 
-- Create at least 2 other pages (this could include pages such as “about us”, “meet the team”, “shipping details”, etc).
+- Create at least 2 other pages (this could include pages such as “about the Kingdom”, etc).
 
-- Additionally, your site must have a catalogue page which lists the items which are for sale.
-
-- Your catalogue page should have at least 5 items for sale (include some details of the item).
+- Additionally, your website should have a catalog page that lists the most important attractions in the area
 
 - Within the entirety of your site, you should have the following elements:
 
@@ -25,14 +23,14 @@
   
   .At least one submit button form (possibly to simulate a login - don’t worry about the functionality of this yet).
   
-  .At least one radio button form (you could select different kinds of shipping methods to your location).
+  .At least one radio button form .
   
   .At least one quote/testimonial (this could be from a previous customer or a review).
   
 ## CSS
 -  Within the entirety of your site, you should have the following styling:
 
-      .Use either Grid OR flex or both of them to organize your products
+      .Use either Grid OR flex or both of them to organize your site.
   
       .At least 3 font styles with different colouring effects.
   
